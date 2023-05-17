@@ -1,0 +1,8 @@
+eggs
+butter
+bread
+tomatoes
+milk
+salt
+pepper
+corn
